@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.function.UnaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.functions.Function2Args"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.functions.Function"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="digitalinnovationone.interno.DivHelper"/>
+    <fullyQualifiedTypeName name="digitalinnovationone.interno.MultiHelper"/>
+    <fullyQualifiedTypeName name="digitalinnovationone.interno.SubHelper"/>
+    <fullyQualifiedTypeName name="digitalinnovationone.interno.SumHelper"/>
+    <fullyQualifiedTypeName name="digitalinnovationone.interno.Calculadora"/>
+</qualifiedTypeNameHistroy>

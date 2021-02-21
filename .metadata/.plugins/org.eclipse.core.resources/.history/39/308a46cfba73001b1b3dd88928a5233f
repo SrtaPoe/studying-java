@@ -1,0 +1,10 @@
+package digitalinnovationone.interno;
+
+import digitalinnovationone.operacao.Calculavel;
+
+public class DivHelper implements Calculavel{
+	@Override
+	public int execute(int a, int b) {
+		return a * b;
+	}
+}

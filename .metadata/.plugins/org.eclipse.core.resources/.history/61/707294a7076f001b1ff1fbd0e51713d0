@@ -1,0 +1,10 @@
+package listaDeExercicios;
+
+import java.util.Scanner;
+
+public class AreaCirculo {
+	public static void main(String[] args) {
+		
+		Scanner entrada = new 
+	}
+}

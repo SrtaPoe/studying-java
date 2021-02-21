@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/joanice/Documentos/curso-java/.metadata/.plugins/org.eclipse.jdt.core
+3949366491.index
+2176413807.index
+3189021885.index
+1680737062.index
+3133762391.index

@@ -1,0 +1,28 @@
+package digitalinnovationone.operacao;
+
+import digitalinnovationone.interno.DivHelper;
+import digitalinnovationone.interno.MultiHelper;
+import digitalinnovationone.interno.SubHelper;
+import digitalinnovationone.interno.SumHelper;
+
+public class Calculadora {
+	
+	private DivHelper divhelper;
+	private MultiHelper multihelper;
+	private SubHelper subhelper;
+	private SumHelper sumhelper;
+	
+	public Calculadora() {
+		divhelper = new DivHelper();
+		multihelper = new MultiHelper();
+		subhelper = new SubHelper();
+		sumhelper = new SumHelper();
+	}
+	
+	public int sum(int a , int b) {
+		return sumhelper.execute(a, b);
+	}
+	public int sub(int a, int b) {
+		return subhelper.execute(a, b);
+	}
+}

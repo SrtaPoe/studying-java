@@ -1,0 +1,15 @@
+package listaDeExercicios;
+
+import java.util.Scanner;
+
+public class ListaPython {
+	public static void main(String[] args) {
+		System.out.println("Olá,mundo!");
+		
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Por favor, digite um número: ");
+		double numero = entrada.nextDouble();
+		System.out.println("O número informado foi " + numero);
+	}
+}
